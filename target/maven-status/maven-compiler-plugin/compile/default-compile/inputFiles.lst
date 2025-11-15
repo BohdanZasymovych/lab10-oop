@@ -1,0 +1,13 @@
+/home/bohdan/code/oop/lab10/src/main/java/edu/ucu/ua/Documents/Document.java
+/home/bohdan/code/oop/lab10/src/main/java/edu/ucu/ua/Documents/CachedDocument.java
+/home/bohdan/code/oop/lab10/src/main/java/edu/ucu/ua/item/decorators/RibbonDecorator.java
+/home/bohdan/code/oop/lab10/src/main/java/edu/ucu/ua/item/CactusFlower.java
+/home/bohdan/code/oop/lab10/src/main/java/edu/ucu/ua/item/decorators/PaperDecorator.java
+/home/bohdan/code/oop/lab10/src/main/java/edu/ucu/ua/item/decorators/AbstractDecorator.java
+/home/bohdan/code/oop/lab10/src/main/java/edu/ucu/ua/Documents/SmartDocument.java
+/home/bohdan/code/oop/lab10/src/main/java/edu/ucu/ua/item/decorators/BasketDecorator.java
+/home/bohdan/code/oop/lab10/src/main/java/edu/ucu/ua/item/ItemDecorator.java
+/home/bohdan/code/oop/lab10/src/main/java/edu/ucu/ua/item/FlowerBucket.java
+/home/bohdan/code/oop/lab10/src/main/java/edu/ucu/ua/Documents/TimedDocument.java
+/home/bohdan/code/oop/lab10/src/main/java/edu/ucu/ua/item/Item.java
+/home/bohdan/code/oop/lab10/src/main/java/edu/ucu/ua/item/RomashkaFlower.java
